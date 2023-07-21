@@ -1,0 +1,6 @@
+Financial Analysis-------------------------
+Total months: 86
+Total amount: -706444
+Average Change: -8214.46511627907
+Greatest increase: 1862002
+Greatest Decrease: -1825558
